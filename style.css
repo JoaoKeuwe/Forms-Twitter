@@ -34,7 +34,7 @@ body {
   width: 100px;
   background: url("https://img.icons8.com/color/100/000000/twitter--v2.png");
   margin: auto;
-  border-radius: 50%;
+  border-radius: 50%; 
   box-sizing: border-box;
   box-shadow: 7px 7px 10px #cbced1, -7px -7px 10px white;
 }
@@ -116,3 +116,11 @@ h1 {
   top: 0;
   left: 0;
 }
+
+.checkbox {
+  margin-top: -900px;
+  margin-left: 900px;
+
+}
+
+
